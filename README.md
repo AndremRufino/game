@@ -19,3 +19,4 @@ For a more detailed explanation, please refer to the dependencies documentation 
 ## **Project Guides**
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 * **[Installation Guide](assets/docs/readme/INSTALL.md)**
+* **[Gameplay prints](assets/docs/images)**
