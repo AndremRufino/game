@@ -3,8 +3,6 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
-## [Gameplay Video](https://player.vimeo.com/video/886470223?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479)
-
 <p align="left">
     <img width=470 src="assets/docs/images/giphy.gif">
 </p>
@@ -19,4 +17,5 @@ For a more detailed explanation, please refer to the dependencies documentation 
 ## **Project Guides**
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 * **[Installation Guide](assets/docs/readme/INSTALL.md)**
+* **[Gameplay video](https://player.vimeo.com/video/886470223?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479)**
 * **[Gameplay prints](assets/docs/images)**
